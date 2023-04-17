@@ -2,9 +2,9 @@
 This project is a demonstration of object detection using the YOLOv5 algorithm. It allows users to detect and identify objects in images and videos with high accuracy and speed.
 
 # Table of Contents
-    .Installation
-    .Usage
-    .Contributing  
+Installation[Go to Installation](#Installation)
+Usage[Go to Usage](#Usage)
+Contributing[Go to Contributing](#Contributing)
     
 # Installation
 To install and run the project, follow these steps:
