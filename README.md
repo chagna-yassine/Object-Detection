@@ -24,6 +24,8 @@ For example, to detect objects in a video and save the output as a file, run the
 
 python detect.py --source path/to/video --output path/to/output
 
+![yolov5](https://user-images.githubusercontent.com/109078003/232351827-0f8a85db-7a42-4a9c-b15c-785c3acce2e9.png)
+
 # Contributing
 We welcome contributions from the community! To contribute to the project, follow these steps:
 
