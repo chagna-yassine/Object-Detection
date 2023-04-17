@@ -15,7 +15,7 @@ Clone the repository to your local machine.
 Install the required dependencies by running the following command: pip install -r requirements.txt.
 Download the pre-trained YOLOv5 model by running the following command: python download_weights.py.
 
-#Usage
+# Usage
 To use the project, follow these steps:
 
 Navigate to the project directory and run the following command: python detect.py --source path/to/image/or/video.
@@ -24,7 +24,7 @@ For example, to detect objects in a video and save the output as a file, run the
 
 python detect.py --source path/to/video --output path/to/output
 
-#Contributing
+# Contributing
 We welcome contributions from the community! To contribute to the project, follow these steps:
 
 Fork the repository.
@@ -32,5 +32,5 @@ Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 We will review your changes and merge them if they are approved.
 
-Contact
+## Contact
 If you have any questions or feedback, feel free to reach out to us at yassinechagna01@email.com.
