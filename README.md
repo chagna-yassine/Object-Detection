@@ -12,7 +12,7 @@ This project is a demonstration of object detection using the YOLOv5 algorithm. 
 To install and run the project, follow these steps:
 
 Clone the repository to your local machine.
-Install the required dependencies by running the following command: pip install -r requirements.txt.
+Install the required dependencies by running the following command : pip install -r requirements.txt.
 Download the pre-trained YOLOv5 model by running the following command: python download_weights.py.
 
 # Usage
